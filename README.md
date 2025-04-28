@@ -38,7 +38,7 @@ Online_Side_Hustle_Flyer/
 
 3. Open `index.html` directly in your browser.
 ## Live Demo
-[Visit ➔](https:// /)
+[Visit ➔](https://github.com/isbangura/Online_Side_Hustle_Flyer)
 
 ## Screenshots
 
